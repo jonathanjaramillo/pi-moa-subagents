@@ -1,8 +1,11 @@
 {
   "name": "pi-moa-subagents",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Mixture-of-experts bug diagnosis for Pi",
-  "keywords": ["pi-package", "pi-extension"],
+  "keywords": [
+    "pi-package",
+    "pi-extension"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/jonathanjaramillo/pi-moa-subagents.git"
@@ -23,6 +26,8 @@
     "@earendil-works/pi-tui": "*"
   },
   "pi": {
-    "extensions": ["./src/index.ts"]
+    "extensions": [
+      "./src/index.ts"
+    ]
   }
 }
