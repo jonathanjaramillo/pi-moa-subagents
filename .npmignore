@@ -1,0 +1,7 @@
+# Local development data
+.pi/
+diagnose/
+
+# Dependencies (not published, src is)
+node_modules/
+package-lock.json

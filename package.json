@@ -3,6 +3,14 @@
   "version": "0.1.0",
   "description": "Mixture-of-experts bug diagnosis for Pi",
   "keywords": ["pi-package", "pi-extension"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonathanjaramillo/pi-moa-subagents.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonathanjaramillo/pi-moa-subagents/issues"
+  },
+  "homepage": "https://github.com/jonathanjaramillo/pi-moa-subagents#readme",
   "license": "MIT",
   "type": "module",
   "main": "./src/index.ts",
